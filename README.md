@@ -1,2 +1,2 @@
-# Statistical-learning-methods
+# Statistical Learning Methods
 Study Notes for Lihang-Statistical learning methods
