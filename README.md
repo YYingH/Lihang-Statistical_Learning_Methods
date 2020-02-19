@@ -23,4 +23,4 @@ Study Notes for Lihang-Statistical learning methods
 - [x] Gaussian Naive Bayes
 - [x] scikit-learn example
 
-#### Chapter_5: Decision Tree(http://127.0.0.1:8888/notebooks/repos/Lihang-Statistical_Learning_Methods/Chapter_5.ipynb)
+#### Chapter_5: Decision Tree(https://github.com/YYingH/Lihang-Statistical_Learning_Methods/blob/master/Chapter_5.ipynb)
